@@ -5,3 +5,6 @@ matei
 Ioana
 Vanesa
 Marian
+Ema
+Diana
+Reni
