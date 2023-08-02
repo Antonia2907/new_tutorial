@@ -5,3 +5,5 @@ matei
 Ioana
 Vanesa
 Marian
+Mirela
+Gabriel
