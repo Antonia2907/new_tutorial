@@ -1,12 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ovidiu
 Simona
 Ionut
 Cornel
 Marius
 =======
+=======
+dev
+Ovidiu
+Simona
+>>>>>>> f0bf4c8ffd9de987fb9eefaed0ca103c4634465d
 Bianca
 Ioana
 Marcel
 Ecaterina
+<<<<<<< HEAD
 >>>>>>> b0c29b308a7be894e52a3d47b6b4b941dd3d0956
+=======
+master
+>>>>>>> f0bf4c8ffd9de987fb9eefaed0ca103c4634465d

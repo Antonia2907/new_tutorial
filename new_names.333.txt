@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Marcel
 Marin
+=======
+dev
+Marcel
+Marin
+master
+>>>>>>> f0bf4c8ffd9de987fb9eefaed0ca103c4634465d
 Ionut
