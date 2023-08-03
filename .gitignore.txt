@@ -1,4 +1,2 @@
 *.333
 bin/
-new_names3.333.txt
-names3.txt
