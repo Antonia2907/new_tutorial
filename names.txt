@@ -10,4 +10,6 @@ Diana
 Reni
 Mirela
 Gabriel
-
+Andrei
+Florin
+Cornel
