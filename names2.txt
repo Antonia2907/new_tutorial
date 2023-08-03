@@ -1,4 +1,8 @@
+dev
+Ovidiu
+Simona
 Bianca
 Ioana
 Marcel
 Ecaterina
+master
