@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Ovidiu
 Simona
 Ionut
 Cornel
 Marius
+=======
+Bianca
+Ioana
+Marcel
+Ecaterina
+>>>>>>> b0c29b308a7be894e52a3d47b6b4b941dd3d0956
